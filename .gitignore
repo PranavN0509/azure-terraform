@@ -1,0 +1,5 @@
+var.sh
+.terraform
+.terraform.lock.hcl
+azure-qr-code
+terraform.tfstate
